@@ -17,18 +17,16 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🗃 File Organizer Bot | Automatically sorts files into folders | [View Repo](https://github.com/yourusername/file-organizer-bot) |
-| 🐦 Twitter Bot | Likes & posts tweets automatically | [View Repo](https://github.com/yourusername/twitter-auto-engage-bot) |
-| 🎥 YouTube Bot | Download videos in one click | [View Repo](https://github.com/yourusername/youtube-downloader-bot) |
-| 🤖 Discord Bot | Custom commands for communities | [View Repo](https://github.com/yourusername/discord-bot) |
+| 🗃 File Organizer Bot | Automatically sorts files into folders | [View Repo](https://github.com/jembilog/file-organizer-bot) |
+| 🐦 Twitter Bot | Likes & posts tweets automatically | [View Repo](https://github.com/jembilog/twitter-auto-engage-bot) |
+| 🎥 YouTube Bot | Download videos in one click | [View Repo](https://github.com/jembilog/youtube-downloader-bot) |
+| 🤖 Discord Bot | Custom commands for communities | [View Repo](https://github.com/jembilog/discord-bot) |
 
 ---
 
 ### 📫 Contact Me for Freelance Work
 
-- 💼 [Fiverr Profile](https://fiverr.com/yourusername)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~yourprofile)
-- 📧 Email: you@example.com
+- 📧 Email: jemelreyabastillas@gmail.com
 
 ---
 
